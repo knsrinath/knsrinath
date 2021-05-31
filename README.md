@@ -31,6 +31,6 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsrinath&layout=compact&theme=dracula&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="knsrinath"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=knsrinath&show_icons=true&theme=dracula&icon_color=ff79c6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsrinath&layout=compact&theme=nord&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="knsrinath"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=knsrinath&show_icons=true&theme=nord&icon_color=81a1c1"/>
 </p>
