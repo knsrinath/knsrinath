@@ -27,3 +27,10 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
+
+<h3 align="left">My GitHub Stats:</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsrinath&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="theFr1nge"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=knsrinath&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+</p>
