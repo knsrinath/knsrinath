@@ -2,7 +2,7 @@
 
 <h3 align="center">A linux enthusiast.</h3>
 
-<p align="center"><img src="hello-terminal-cursor.gif"></p>
+<p align="center"><img src="Hello-World.gif"></p>
 
 - `whoami`  A college student in India.
 
