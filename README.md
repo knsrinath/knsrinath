@@ -2,9 +2,7 @@
 
 <h3 align="center">A linux enthusiast.</h3>
 
-<p align="center"><img src="imgs/hello_there.gif"></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
+<p align="center"><img src="hello_there.gif"></p>
 
 - `whoami`  A college student in India.
 
