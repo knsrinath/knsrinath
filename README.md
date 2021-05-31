@@ -26,4 +26,4 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
-		<img align="center" href="https://suckless.org" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
