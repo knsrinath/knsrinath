@@ -2,7 +2,7 @@
 
 <h3 align="center">A linux enthusiast.</h3>
 
-<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+<p align="center"><img src="imgs/hello_there.gif"></p>
 
 - `whoami`  A college student in India.
 
