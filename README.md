@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
+<h1 align="center">Hi 👋, I'm Naga Srinath</h1>
 
-<h3 align="center">A passionate backend developer and linux enthusiast.</h3>
+<h3 align="center">A linux enthusiast.</h3>
 
 <p align="center"><img src="imgs/hello_there.gif"></p>
 
