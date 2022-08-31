@@ -2,11 +2,11 @@
 
 <!--<p align="center"><img src="hello-world.gif"></p>-->
 
-- `whoami`  A college student in India.
+- `whoami`  Naga Srinath Kandula
 
-- `uptime`  17 years
+- `uptime`  ~207 months
 
-- `pwd` India, Hyderabad
+- `pwd` LPU, Punjab.
 
 - `neofetch`   Arch Linux, DWM and Suckless Utilities
 
