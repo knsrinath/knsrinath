@@ -9,9 +9,11 @@
 
 - `uptime`  ~207 months
 
-- `pwd` LPU, Punjab.
+- `pwd`	LPU, Punjab.
 
-- `neofetch`   Arch Linux, DWM and Suckless Utilities
+- `cat /etc/os-release`	Arch Linux
+
+- `hostname`	ThinkPad T14 Gen 3
 
 
 <h3 align="left">I am interested in:</h3>
