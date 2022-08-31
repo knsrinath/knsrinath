@@ -1,4 +1,7 @@
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">Naga Srinath</a>!  -->
+</h1>
 
 <!--<p align="center"><img src="hello-world.gif"></p>-->
 
@@ -30,6 +33,5 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsrinath&layout=compact&theme=nord&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="knsrinath"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=knsrinath&show_icons=true&theme=nord&icon_color=81a1c1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knsrinath&theme=github_dark" alt="knsrinath"/>
 </p>
