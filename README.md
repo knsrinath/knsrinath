@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naga Srinath</h1>
+<h1 align="center">Hi There! 👋</h1>
 
 <!--<p align="center"><img src="hello-world.gif"></p>-->
 
