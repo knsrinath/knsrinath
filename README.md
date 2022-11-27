@@ -7,13 +7,10 @@
 
 - `whoami`  Naga Srinath Kandula
 
-- `uptime`  ~207 months
+- `uptime`  ~17 years 6 months
 
 - `pwd`	LPU, Punjab.
 
-- `cat /etc/os-release`	Arch Linux
-
-- `hostname`	ThinkPad T14 Gen 3
 
 
 <h3 align="left">I am interested in:</h3>
