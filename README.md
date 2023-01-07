@@ -2,7 +2,7 @@
 - `whoami`  Naga Srinath Kandula
 
 - `uptime`  ~17 years 
-- 
+
 - `pwd`	LPU, Punjab.
 
 #### Github Stats
