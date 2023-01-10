@@ -11,4 +11,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knsrinath&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knsrinath&theme=github_dark&utcOffset=8)
 
 #### Visitor Count
-https://profile-counter.glitch.me/knsrinath/count.svg
+![](https://profile-counter.glitch.me/knsrinath/count.svg)
