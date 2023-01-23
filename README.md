@@ -11,3 +11,6 @@
 
 #### Visitor Count
 ![](https://profile-counter.glitch.me/knsrinath/count.svg)
+
+#### Remainder:
+I'm leaving GitHub in favour of hosting my own git server, These repos here are going to be mirrors. 
