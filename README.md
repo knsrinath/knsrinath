@@ -1,3 +1,6 @@
+#### Remainder:
+I'm leaving GitHub in favour of codeberg.org, These repos here are going to be mirrors. 
+
 ### About
 - `whoami`  Naga Srinath Kandula
 
@@ -11,6 +14,3 @@
 
 #### Visitor Count
 ![](https://profile-counter.glitch.me/knsrinath/count.svg)
-
-#### Remainder:
-I'm leaving GitHub in favour of codeberg.org, These repos here are going to be mirrors. 
