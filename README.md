@@ -1,4 +1,4 @@
-#### Im also on [Check out my new git server!](https://git.knsrinath.com)
+#### Check out my new [git server](https://git.knsrinath.com)!
 
 #### About
 - `whoami`  Naga Srinath Kandula
