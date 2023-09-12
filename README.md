@@ -3,7 +3,7 @@
 ### About
 - `whoami`  Naga Srinath Kandula
 
-- `uptime`  ~17 years
+- `uptime`  ~18 years
 
 - `pwd`	LPU, Punjab.
 
