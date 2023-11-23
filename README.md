@@ -1,6 +1,6 @@
 ### Check out my new [git server](https://git.knsrinath.com)!
 
-### `./fetch_details.sh`
+### About
 - `whoami`  Naga Srinath
 
 - `uptime`  18 years
