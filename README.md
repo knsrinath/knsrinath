@@ -1,5 +1,3 @@
-### Check out my new [git server](https://git.knsrinath.com)!
-
 ### About
 - `whoami`  Naga Srinath
 
