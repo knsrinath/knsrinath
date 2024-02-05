@@ -1,3 +1,5 @@
+![Hello](https://raw.githubusercontent.com/knsrinath/knsrinath/main/hello-world.gif)
+
 ### About
 - `whoami`  Naga Srinath
 
