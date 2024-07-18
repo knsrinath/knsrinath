@@ -3,6 +3,6 @@
 ### About
 - `whoami`  Naga Srinath
 
-- `uptime`  19 years
+- `uptime`  20 years
 
 - `pwd`	India/Punjab/Lovely\ Professional\ University/
